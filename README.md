@@ -1,2 +1,2 @@
 # SpaceX-Falcon-9-first-stage-Landing-Prediction
-IBM Data Science Capstone (SpaceX Falcon 9 first stage Landing Prediction)
+IBM Applied Data Science Capstone Project (SpaceX Falcon 9 first stage Landing Prediction)
